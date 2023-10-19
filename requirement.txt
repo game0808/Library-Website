@@ -1,0 +1,12 @@
+frontend
+----------
+npm install vue 
+npm install axios
+npm install bootstrap@4.6.0 --save
+npm install bootstrap-vue@2.21.2 --save
+
+backend
+----------
+pip install flask 
+pip install flask-cors
+pip install mysql
